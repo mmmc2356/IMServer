@@ -27,6 +27,7 @@ Makefile
 compile_commands.json
 CTestTestfile.cmake
 _deps/
+CMakeUserPresets.json
 
 # Qt
 *.pro.user
